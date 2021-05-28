@@ -1,0 +1,24 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>chess48.png</filename>
+    <size>
+        <width>400</width>
+        <height>225</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>white-knight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>162</xmin>
+            <ymin>35</ymin>
+            <xmax>201</xmax>
+            <ymax>110</ymax>
+        </bndbox>
+    </object>
+</annotation>

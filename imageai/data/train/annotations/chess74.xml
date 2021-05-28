@@ -1,0 +1,24 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>chess74.png</filename>
+    <size>
+        <width>400</width>
+        <height>225</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>black-pawn</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>154</xmin>
+            <ymin>16</ymin>
+            <xmax>238</xmax>
+            <ymax>169</ymax>
+        </bndbox>
+    </object>
+</annotation>
